@@ -1,0 +1,8 @@
+c:\users\m.glal\documents\visual studio 2015\Projects\new1\new1\bin\Debug\new1.exe.config
+c:\users\m.glal\documents\visual studio 2015\Projects\new1\new1\bin\Debug\new1.exe
+c:\users\m.glal\documents\visual studio 2015\Projects\new1\new1\bin\Debug\new1.pdb
+c:\users\m.glal\documents\visual studio 2015\Projects\new1\new1\obj\Debug\new1.csprojResolveAssemblyReference.cache
+c:\users\m.glal\documents\visual studio 2015\Projects\new1\new1\obj\Debug\new1.Properties.Resources.resources
+c:\users\m.glal\documents\visual studio 2015\Projects\new1\new1\obj\Debug\new1.csproj.GenerateResource.Cache
+c:\users\m.glal\documents\visual studio 2015\Projects\new1\new1\obj\Debug\new1.exe
+c:\users\m.glal\documents\visual studio 2015\Projects\new1\new1\obj\Debug\new1.pdb
